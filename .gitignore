@@ -1,0 +1,6 @@
+/.env
+/mails.json
+/Text.txt
+/.idea
+/__pycache__
+/venv
